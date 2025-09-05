@@ -5,16 +5,6 @@
     "Longitude": -3.1479660404792495
   },
   {
-    "Name": "Regency House",
-    "Latitude": 53.373512499610115,
-    "Longitude": -1.470579057671278
-  },
-  {
-    "Name": "Jasmin Court Nursing Home",
-    "Latitude": 53.401862535709185,
-    "Longitude": -1.4649157839664078
-  },
-  {
     "Name": "Airport Inn Gatwick",
     "Latitude": 51.166704881035116,
     "Longitude": -0.1784318785622498
@@ -520,11 +510,6 @@
     "Longitude": 0.33677398503306893
   },
   {
-    "Name": "Grange Hotel Bracknell",
-    "Latitude": 51.41594102104989,
-    "Longitude": -0.7489226963573413
-  },
-  {
     "Name": "The Greyhound Hotel Leigh",
     "Latitude": 53.480588299615775,
     "Longitude": -2.5010110711643616
@@ -625,14 +610,14 @@
     "Longitude": -4.7415823
   },
   {
-    "Name": "Holiday Inn Express London - Wimbledon South by IHG",
-    "Latitude": 51.41777668185608,
-    "Longitude": -0.17895429999999998
-  },
-   {
     "Name": "Holiday Inn Express London - City by IHG",
     "Latitude": 51.52680463746439,
     "Longitude": -0.08289389999999999
+  },
+  {
+    "Name": "Holiday Inn Express London - Wimbledon South by IHG",
+    "Latitude": 51.41777668185608,
+    "Longitude": -0.17895429999999998
   },
   {
     "Name": "Holiday Inn Express London Gatwick Crawley",
@@ -783,6 +768,11 @@
     "Name": "Imperial Hotel Brighton",
     "Latitude": 50.82463939623889,
     "Longitude": -0.16606848958065618
+  },
+  {
+    "Name": "Jasmin Court Nursing Home",
+    "Latitude": 53.401862535709185,
+    "Longitude": -1.4649157839664078
   },
   {
     "Name": "King William Court Apartments",
@@ -1100,7 +1090,7 @@
     "Longitude": -0.7702678186775294
   },
   {
-    "Name": "Première Classe",
+    "Name": "Premi\u00e8re Classe",
     "Latitude": 52.43113072289244,
     "Longitude": -1.4393247320952973
   },
@@ -1138,6 +1128,11 @@
     "Name": "Redbridge Lodge",
     "Latitude": 51.57716996622897,
     "Longitude": 0.04445327116436112
+  },
+  {
+    "Name": "Regency House",
+    "Latitude": 53.373512499610115,
+    "Longitude": -1.470579057671278
   },
   {
     "Name": "Richmond Apart-Hotel",
@@ -1297,7 +1292,7 @@
   {
     "Name": "Travelodge Preston Central",
     "Latitude": 53.76122258220818,
-    "Longitude": -2.6846712251491054
+    "Longitude": -2.684671225149105
   },
   {
     "Name": "Tulip Styles Hotel",
